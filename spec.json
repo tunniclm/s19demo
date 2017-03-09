@@ -1,0 +1,11 @@
+{
+  "appName": "mylovelyproject",
+  "appType": "web",
+  "appDir": ".",
+  "bluemix": true,
+  "docker": true,
+  "services": {},
+  "capabilities": {
+    "metrics": true
+  }
+}
